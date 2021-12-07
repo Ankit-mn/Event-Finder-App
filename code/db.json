@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Music Concert",
+      "username": "Indore",
+      "email": "romeo@events.com",
+      "phone": "98989856564",
+      "website": "saregama@rockz.com",
+      "id": 3
+    },
+    {
+      "name": "Standup Comedy",
+      "username": "Banglore",
+      "email": "prepare@event.com",
+      "phone": "4567891230",
+      "website": "rahul@tho.com",
+      "id": 4
+    },
+    {
+      "name": "Sale Sale",
+      "username": "Rohini",
+      "email": "zombie@event.com",
+      "phone": "22223336644",
+      "website": "sales@clothing.com",
+      "id": 5
+    },
+    {
+      "name": "Magic Show",
+      "username": "Hyderabad",
+      "email": "prisms@event.com",
+      "phone": "7854693256",
+      "website": "nano@magic.com",
+      "id": 6
+    },
+    {
+      "name": "Live Concert",
+      "username": "Banglore",
+      "email": "DjSnake@official.com",
+      "phone": "1122554689",
+      "website": "Djrocky@two.com",
+      "id": 7
+    },
+    {
+      "name": "Light Show",
+      "username": "Banaras",
+      "email": "lights@eve.com",
+      "phone": "564321689",
+      "website": "ankit@gmail.com",
+      "id": 8
+    },
+    {
+      "name": " Stunt Show",
+      "username": "Bhopal",
+      "email": "suraj@gmail.com",
+      "phone": "2365987741",
+      "website": "bikers@world.com",
+      "id": 9
+    },
+    {
+      "name": "Talk Show",
+      "username": "Kota",
+      "email": "maheshwari@event",
+      "phone": "998756324",
+      "website": "motivation@op.com",
+      "id": 10
+    },
+    {
+      "name": "Drag Race",
+      "username": "Pune",
+      "email": "maddy@organizer.com",
+      "phone": "992635489",
+      "website": "racingman@track.com",
+      "id": 11
+    }
+  ]
+}
